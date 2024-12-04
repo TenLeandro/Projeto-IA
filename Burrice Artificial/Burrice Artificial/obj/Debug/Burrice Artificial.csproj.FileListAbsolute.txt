@@ -1,0 +1,18 @@
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\bin\Debug\Burrice Artificial.exe.config
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\bin\Debug\Burrice Artificial.exe
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\bin\Debug\Burrice Artificial.pdb
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\obj\Debug\Burrice Artificial.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\obj\Debug\Burrice_Artificial.frmMenu.resources
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\obj\Debug\Burrice_Artificial.Properties.Resources.resources
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\obj\Debug\Burrice Artificial.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\obj\Debug\Burrice Artificial.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\obj\Debug\Burrice Artificial.exe
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\obj\Debug\Burrice Artificial.pdb
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\obj\Debug\Burrice_Artificial.frmBurriceArtificial.resources
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\obj\Debug\Burrice_Artificial.frmConecTest.resources
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\obj\Debug\Burrice_Artificial.frmFabricante.resources
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\obj\Debug\Burrice_Artificial.frmCategoria.resources
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\bin\Debug\bdzumbumbaboonbagosmalevolentesbehavior.mdf
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\bin\Debug\bdzumbumbaboonbagosmalevolentesbehavior_log.ldf
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\obj\Debug\Burrice_Artificial.frmCategoriaView.resources
+C:\Users\Aluno\Downloads\Projeto IA\Burrice Artificial\Burrice Artificial\obj\Debug\Burrice_Artificial.frmFabricanteView.resources
